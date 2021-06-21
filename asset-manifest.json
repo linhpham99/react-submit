@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-submit/static/css/main.48c39606.chunk.css",
+    "main.js": "/react-submit/static/js/main.5c2fa410.chunk.js",
+    "main.js.map": "/react-submit/static/js/main.5c2fa410.chunk.js.map",
+    "runtime-main.js": "/react-submit/static/js/runtime-main.641e7802.js",
+    "runtime-main.js.map": "/react-submit/static/js/runtime-main.641e7802.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/react-submit/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.66f3faf6.chunk.js": "/react-submit/static/js/2.66f3faf6.chunk.js",
+    "static/js/2.66f3faf6.chunk.js.map": "/react-submit/static/js/2.66f3faf6.chunk.js.map",
+    "static/js/3.05eefa47.chunk.js": "/react-submit/static/js/3.05eefa47.chunk.js",
+    "static/js/3.05eefa47.chunk.js.map": "/react-submit/static/js/3.05eefa47.chunk.js.map",
+    "index.html": "/react-submit/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/react-submit/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.48c39606.chunk.css.map": "/react-submit/static/css/main.48c39606.chunk.css.map",
+    "static/js/2.66f3faf6.chunk.js.LICENSE.txt": "/react-submit/static/js/2.66f3faf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.641e7802.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.66f3faf6.chunk.js",
+    "static/css/main.48c39606.chunk.css",
+    "static/js/main.5c2fa410.chunk.js"
+  ]
+}
